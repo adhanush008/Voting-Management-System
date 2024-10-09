@@ -1,0 +1,16 @@
+ca0001|Akash|1001|Team_akash|53|
+ca0002|Dhanush|1002|Team_dhanu|22|
+ca0004|Hitesh|1234|H A|101|
+ca0005|Manoj|1234|K M|1|
+st0001|Giridhar|1001|5656|
+st0002|Divyanch|1002|7878|
+st0003|Amar|1003|9696|
+vt0001|rajesh|1001|24|2000|true|
+vt0002|vishnu|1002|22|2222|true|
+vt0004|shamanth|1234|1000|6600|true|
+vt0005|prajwal|1234|20|7000|false|
+vt0006|saurav|123|25|78695|true|
+vt0007|Anju|101010|21|2001|true|
+vt0008|stark|1020|23|9696|true|
+vt0009|milan|121232|21|987456|false|
+system|true||
